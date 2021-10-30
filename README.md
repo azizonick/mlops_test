@@ -20,4 +20,4 @@
 12. Test everything, make sure there are no bugs
 13. Write a simple `README.md` file with all the mandatory fields (briefly). It must be possible reproduce all the steps on a local PC (macOS).
 14. Report the approximate time it took you to complete the task
-15. Commit and push the source code to a private GitHub repository, share access with @ogurbych
+15. Commit and push the source code to a private GitHub repository, share access with `@ogurbych` GitHub ID
